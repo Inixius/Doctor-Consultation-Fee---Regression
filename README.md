@@ -1,8 +1,8 @@
 # Doctor-Consultation-Fee---Regression
 
-We have all been in situation where we go to a doctor in emergency and find that the consultation fees are too high. As a data scientist we all should do better. What if you have data that records important details about a doctor and you get to build a model to predict the doctor's consulting fee.?
+This project is based off of a hackathon from MachineHack.com.
 
-This project is based off of a hackathon from MachineHack.com that lets you do that.
+We have all been in situation where we go to a doctor in emergency and find that the consultation fees are too high. As a data scientist we all should do better. What if you have data that records important details about a doctor and you get to build a model to predict the doctor's consulting fee.? This hackathon lets us do exactly that.
 
 Size of training set: 5961 records
 Size of test set: 1987 records
